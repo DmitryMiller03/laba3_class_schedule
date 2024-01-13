@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laba3_class_schedule</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="week_schedule">Неделя</string>
+    <string name="today_schedule">День</string>
+</resources>
